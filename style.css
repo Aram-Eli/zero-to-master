@@ -1,0 +1,13 @@
+body {
+  margin: auto;
+  position: fixed;
+}
+
+.container {
+  margin: 10px 30%;
+}
+
+.container img {
+  width: 170%;
+  margin-top: 50px;
+}
